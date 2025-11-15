@@ -1,0 +1,9 @@
+{
+    "available_models": [
+        "qwen3:30b",
+        "dolphin-mixtral:8x7b",
+        "gpt-oss:20b",
+        "dolphin3:8b"
+    ],
+    "history_file": "prompt_history.json"
+}
