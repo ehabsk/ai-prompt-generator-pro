@@ -1,0 +1,4 @@
+# ملف المتطلبات (requirements.txt) 
+gradio
+ollama
+
