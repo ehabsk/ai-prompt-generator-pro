@@ -12,7 +12,12 @@ AI Prompt Generator Pro - Modular Version
 2) شغل:
    pip install -r requirements.txt
    python ui.py
-
+إنشاء وتفعيل  venv
+    لينكس/ماك:
+        إنشاء: python3 -m venv .venv
+        تفعيل: source .venv/bin/activate
+    ويندوز (PowerShell):
+      إنشاء: py -m venv .venv
 
 ## 🎥 فيديو توضيحي
 ![واجهة الأداة](assets/demo.png)
